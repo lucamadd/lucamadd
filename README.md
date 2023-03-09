@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca Maddaluno</h1>
-<h3 align="center">I'm a master student @ <b><a href="https://www.unisa.it/"> UniSA</a></b></h3>
+<h3 align="center">Penetration tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucamadd&label=Profile%20views&color=0e75b6&style=flat" alt="lucamadd" /> </p>
 
